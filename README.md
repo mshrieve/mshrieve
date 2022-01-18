@@ -1,3 +1,3 @@
-## hi im mike
+## mike
 
 mike@loset.info
