@@ -4,13 +4,11 @@ mike
 
 loset.eth
 
-protocol design
-
-prediction markets
-
-on-chain svgs
-
-etc.
+- protocol design
+- prediction markets
+- nfts
+- on-chain svgs
+- etc.
 
 @polymarket
 @bibos
