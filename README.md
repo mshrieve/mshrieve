@@ -8,6 +8,8 @@ loset.eth
 - prediction markets
 - nfts
 - on-chain svgs
+- evm
+- rust
 - etc.
 
 @polymarket
