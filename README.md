@@ -5,10 +5,9 @@ mike
 loset.eth
 
 - protocol design
-- prediction markets
-- nfts
 - on-chain svgs
 - evm
+- solidity
 - rust
 - etc.
 
