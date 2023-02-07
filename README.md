@@ -4,11 +4,10 @@ mike
 
 loset.eth
 
-- protocol design
+- web3 protocol design
+- evm/solidity
+- web3 tooling
 - on-chain svgs
-- evm
-- solidity
-- rust
 - etc.
 
 @polymarket
