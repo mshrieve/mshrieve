@@ -12,6 +12,6 @@ loset.eth
 
 @polymarket
 @bibos
-@bumblebee-systems
+@rectangle-factory
 
 mike@loset.info
