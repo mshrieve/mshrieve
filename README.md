@@ -1,6 +1,6 @@
 ##
 
-mike -- loset.eth
+mike
 
 mike@loset.info
 
