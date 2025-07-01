@@ -4,7 +4,7 @@ mike -- loset.eth
 
 mike@loset.info
 
-protocol lead  @polymarket
+head of research  @polymarket
 
 bit wrangler   @rectangle-factory
 
