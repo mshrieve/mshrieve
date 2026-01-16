@@ -1,3 +1,3 @@
 ##
 
-head of research  @polymarket
+smart contracts @polymarket
